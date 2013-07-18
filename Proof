@@ -7,6 +7,7 @@ public class Proof {
 	}
 
 	public LineNumber nextLineNumber ( ) {
+	//hi
 		return null;
 	}
 
